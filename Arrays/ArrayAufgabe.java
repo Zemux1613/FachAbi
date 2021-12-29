@@ -3,10 +3,6 @@ package arrayaufgabe;
 
 import java.util.Scanner;
 
-/**
- *
- * @author fos2-19e2-tloeser
- */
 public class ArrayAufgabe {
 
     public static void main(String[] args) {
