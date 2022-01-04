@@ -3,10 +3,6 @@ package randomnumbers;
 
 import java.util.Random;
 
-/**
- *
- * @author fos2-19e2-tloeser
- */
 public class RandomNumbers {
 
     public static void main(String[] args) {
